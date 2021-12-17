@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markkuope
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning and teaching C# and Unity
-- 💞️ I’m looking to collaborate with my students ann colleagues
+- 💞️ I’m looking to collaborate with my students and colleagues
 - 📫 
 
 <!---
